@@ -1,1 +1,1 @@
-# email_generator_JS
+simple email generator for random emails
